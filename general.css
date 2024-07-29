@@ -1,0 +1,41 @@
+body {
+    background-color: #999999;
+    margin: 0px;
+    padding: 0px;
+}
+td {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+a:link, a:visited {  color: #0033CC; text-decoration: none}
+a:hover { color: #6699CC; text-decoration: none }
+p {}
+ul {}
+ol {}
+h1 {font-size: 20px; font-weight: normal}
+h2 {font-size: 16px; color: #003264}
+h3 {font-size: 16px; font-weight: normal}
+h4 {font-weight: bold}
+
+a.nav:link {  color: #FFFFFF; text-decoration: none}
+a.nav:visited { color: #FFFFFF; text-decoration: none}
+a.nav:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #99CCFF;
+}
+.nav {  color: #FFFFFF; font-weight: bold; text-align: center; font-size: 13px}
+.sideborder {  border-color: black #003366 black black; padding-right: 20px; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px; padding-bottom: 20px; padding-top: 20px; padding-left: 20px; background-color: #FFFFFF}
+.coname {  color: #FFFFFF; font-size: 20px; font-weight: bold; padding-left: 20px; margin-top: 5px; margin-bottom: 5px}
+.copyright {  color: #FFFFFF; font-size: 13px; margin-left: 30px}
+.navtext {
+color: #FFFFFF; font-weight: bold; font-size: 13px
+}
+.small {
+font-size: 10px
+}
+#designed a {
+    color: #CCCCCC;
+    text-decoration: none;
+    font-size: 10px;
+}
