@@ -154,8 +154,13 @@
       </p>
       
       <p>
-        If interested, please contact Dr. Oleg Rubel at rubelo[-at-]mcmaster.ca. Begin your subject line with [MSE PhD].
+        If interested, please contact Dr. Oleg Rubel at <span id="email"></span>. Begin your subject line with [MSE PhD].
       </p>
+      <script>
+        const user = "rubelo";
+        const domain = "mcmaster.ca";
+        document.getElementById("email").textContent = user + "@" + domain;
+      </script>
       
     </td></tr>
 
